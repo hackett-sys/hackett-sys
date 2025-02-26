@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning to use GIT/GITHUB along with FHIR in the openemr space
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...  I may be reached at 908 456 1502 or email me at chacmig8@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 
 
 <!---
 hackett-sys/hackett-sys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
